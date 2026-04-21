@@ -1,4 +1,6 @@
-# Copilot Prompts
+# Agnostic Prompts Vault POC
+
+This repository is a fork of pnp/copilot-prompts. We are extending the excellent work of the PnP community by building a standalone GUI and expanding the vault to include non-Microsoft AI models.
 
 This repository contains sample prompts and agent instructions for Microsoft Copilot, GitHub Copilot, and Microsoft 365 Copilot. We welcome community contributions — if you have a great prompt or agent idea, please share your work and help others!
 
