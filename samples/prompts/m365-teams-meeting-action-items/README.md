@@ -46,7 +46,7 @@ Use this prompt after a Teams meeting to automatically extract action items from
 
 Version|Date|Comments
 -------|----|--------
-1.0|January 29, 2025|Initial release
+1.0|January 29, 2026|Initial release
 
 ## Prerequisites
 
@@ -67,3 +67,5 @@ Finally, if you have an idea for improvement, [make a suggestion](https://github
 **THIS CODE IS PROVIDED *AS IS* WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.**
 
 <img src="https://m365-visitor-stats.azurewebsites.net/SamplesGallery/m365-teams-meeting-action-items" />
+
+![](https://m365-visitor-stats.azurewebsites.net/SamplesGallery/copilotprompts-m365-teams-meeting-action-items)

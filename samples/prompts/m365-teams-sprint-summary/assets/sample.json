@@ -1,6 +1,6 @@
 [
     {
-      "name": "m365-teams-sprint-summary",
+      "name": "copilotprompts-m365-teams-sprint-summary",
       "source": "pnp",
       "title": "Summarize This Email Thread",
       "shortDescription": "Get main points from long email threads in 3 bullets",
@@ -8,8 +8,8 @@
       "longDescription": [
         "Long email threads are hard to follow. This prompt gives you the important stuff: main topic, key decisions, and what you need to do next."
       ],
-      "creationDateTime": "2025-02-12",
-      "updateDateTime": "2025-02-12",
+      "creationDateTime": "2026-02-12",
+      "updateDateTime": "2026-02-25",
       "products": [
         "Microsoft 365 Copilot",
         "Teams"

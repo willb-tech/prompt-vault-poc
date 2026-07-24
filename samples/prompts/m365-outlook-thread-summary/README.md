@@ -28,7 +28,7 @@ Use it in Outlook when you have a long email chain and need to quickly understan
 
 Version|Date|Comments
 -------|----|--------
-1.0|January 29, 2025|Initial release
+1.0|January 29, 2026|Initial release
 
 ## Disclaimer
 
@@ -46,4 +46,6 @@ For questions regarding this sample, [create a new question](https://github.com/
 
 Finally, if you have an idea for improvement, [make a suggestion](https://github.com/pnp/copilot-prompts/discussions).
 
-<img src="https://m365-visitor-stats.azurewebsites.net/SamplesGallery/m365-outlook-thread-summary" />
+<img src="https://m365-visitor-stats.azurewebsites.net/SamplesGallery/copilotprompts-m365-outlook-thread-summary" />
+
+![](https://m365-visitor-stats.azurewebsites.net/SamplesGallery/copilotprompts-m365-outlook-thread-summary)
